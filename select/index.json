@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "もう一度またねと言わせてよ",
+  "base_artist": "Mylta",
+  "createdAt": "2026-02-23T04:39:23.515898Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう一度またねと言わせてよ (feat. 羊羊)",
+      "artist": "Mylta, 羊羊",
+      "has_synced": false,
+      "path": "select/pl_01_もう一度またねと言わせてよ_(feat._羊羊)_Mylta,_羊羊.txt"
+    }
+  ]
+}
